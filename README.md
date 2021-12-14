@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Happyrobot33&theme=onedark&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Happyrobot33&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Happyrobot33/Happyrobot33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
