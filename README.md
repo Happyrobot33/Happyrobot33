@@ -1,5 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Happyrobot33&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happyrobot33&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Happyrobot33/Happyrobot33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
