@@ -32,11 +32,6 @@
 						opacity: 1;
 					}
 				}
-.trophys, .trophybackground{
-position: absolute;
-left: 0;
-top: 0;
-}
 				.container {
 					font-family:
 						system-ui,
@@ -73,9 +68,9 @@ top: 0;
 				}
 			</style>
 			<div class="container">
-			<div class="trophycontainer">
-				<img class="trophy" src="https://github-profile-trophy.vercel.app/?username=Happyrobot33&theme=tokyonight&no-frame=true&no-bg=true&column=7">
-			</div>
+				<div class="trophycontainer">
+					<img class="trophy" src="https://github-profile-trophy.vercel.app/?username=Happyrobot33&theme=tokyonight&no-frame=true&no-bg=true&column=7">
+				</div>
 			</div>
 		</div>
 	</foreignObject>
